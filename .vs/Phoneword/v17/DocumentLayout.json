@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sasha\\source\\repos\\Phoneword\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A92FF8-7CE4-4A67-B85E-D0BF363FEA8F}|Phoneword\\Phoneword.csproj|c:\\users\\sasha\\source\\repos\\phoneword\\phoneword\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1A92FF8-7CE4-4A67-B85E-D0BF363FEA8F}|Phoneword\\Phoneword.csproj|solutionrelative:phoneword\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A92FF8-7CE4-4A67-B85E-D0BF363FEA8F}|Phoneword\\Phoneword.csproj|c:\\users\\sasha\\source\\repos\\phoneword\\phoneword\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A1A92FF8-7CE4-4A67-B85E-D0BF363FEA8F}|Phoneword\\Phoneword.csproj|solutionrelative:phoneword\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A92FF8-7CE4-4A67-B85E-D0BF363FEA8F}|Phoneword\\Phoneword.csproj|c:\\users\\sasha\\source\\repos\\phoneword\\phoneword\\phonewordtranslator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1A92FF8-7CE4-4A67-B85E-D0BF363FEA8F}|Phoneword\\Phoneword.csproj|solutionrelative:phoneword\\phonewordtranslator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Sasha\\source\\repos\\Phoneword\\Phoneword\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "Phoneword\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Sasha\\source\\repos\\Phoneword\\Phoneword\\MainPage.xaml.cs",
+              "RelativeToolTip": "Phoneword\\MainPage.xaml.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAADwv0cAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T10:58:41.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Sasha\\source\\repos\\Phoneword\\Phoneword\\MainPage.xaml",
+              "RelativeDocumentMoniker": "Phoneword\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\Sasha\\source\\repos\\Phoneword\\Phoneword\\MainPage.xaml",
+              "RelativeToolTip": "Phoneword\\MainPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-25T10:46:15.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PhonewordTranslator.cs",
+              "DocumentMoniker": "C:\\Users\\Sasha\\source\\repos\\Phoneword\\Phoneword\\PhonewordTranslator.cs",
+              "RelativeDocumentMoniker": "Phoneword\\PhonewordTranslator.cs",
+              "ToolTip": "C:\\Users\\Sasha\\source\\repos\\Phoneword\\Phoneword\\PhonewordTranslator.cs",
+              "RelativeToolTip": "Phoneword\\PhonewordTranslator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T10:43:05.634Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
